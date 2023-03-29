@@ -1,0 +1,91 @@
+.header {
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url(https://images.pexels.com/photos/42408/pexels-photo-42408.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    color: beige;
+}
+
+.h-100 {
+    height: 100%;
+    width: 100%;
+}
+
+.message {
+    color: black;
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
+
+.navbar-nav {
+    margin-left: 100vh;
+}
+
+.navbar-band {
+    margin-left: 20vh;
+}
+
+.myicon {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.links {
+    color: black;
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
+
+/* Style all font awesome icons */
+.fa {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-instagram {
+    background: #d71c61;
+    color: white;
+}
+
+.footer {
+
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 3vh;
+}
+
+h6 {
+    margin-top: 10vh;
+}
